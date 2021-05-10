@@ -26,6 +26,11 @@ These are the projects currently being moved forward in some capacity. Each proj
 - [**Additional OAI Leadership**](https://github.com/OAI/Projects/projects/9) - Work to define the roles for 3 additional leadership within the OAI, and help them be successful in work over a year.
 - [**JSON Schema Documentation Update**](https://github.com/OAI/Projects/projects/10) - This is work to invest in the updating of JSON Schema documentation, helping invest in supporting specifications.
 - [**OpenAPI Search Engine Optimization**](https://github.com/OAI/Projects/projects/11) - This is ongoing work to help improve the search engine optimization for the OAI and OAS, helping increase it's presence.
+- [**OpenAPI Initiative Incubator Project Proposal Process**](https://github.com/OAI/Projects/projects/12) - This is a ongoing project ot help move forward the process that governs any incubator project added to the OpenAPI Initiative (OAI).
+- [**Workflow and Automation Incubator Project**](https://github.com/OAI/Projects/projects/13) - This is a project to manage the workflow and automation incubator project proposal and effort once it is accepted by the TOB.
+- [**Security Incubator Project**](https://github.com/OAI/Projects/projects/14) - This is a project to manage the security incubator project proposal and effort once it is accepted by the TOB.
+- [**SLA Incubator Project**](https://github.com/OAI/Projects/projects/15) - This is a project to manage the security incubator project proposal and effort once it is accepted by the TOB.
+- [**Travel Journey Incubator Project**](https://github.com/OAI/Projects/projects/16) - This is a project to manage the airline, hospitality, rail, and travel incubator project proposal and effort once it is accepted by the TOB.
 
 As projects are complete they will be closed, with some projects living on forever and issues and discussions being used to drive ongoing work.
 
