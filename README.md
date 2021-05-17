@@ -15,7 +15,6 @@ Feel free to suggest a new project by submitting an issue, or roll up your sleev
 # Active Projects
 These are the projects currently being moved forward in some capacity. Each project has a listing of to do, in progress, and done tasks, as well as link to any open issues or discussions.
 
-- [**Project Tracking**](https://github.com/OAI/Projects/projects/1) - This is a project to manage projects as part of the OAI community, providing a single place to know what is happening.
 - [**Member Showcase & Engagement**](https://github.com/OAI/Projects/projects/2) - Continually improving our showcasing and engagement with our members while actively working to recruit new ones.
 - [**Profile & Engage with API Providers**](https://github.com/OAI/Projects/projects/3) - Work to identify, profile, and build relationships with API providers who have implemented the OpenAPI specification.
 - [**Profile and Engage with Open Source Tooling**](https://github.com/OAI/Projects/projects/4) - Establish an official directory of open source tooling that uses OAS, and actively work to establish and build relationships with them.
