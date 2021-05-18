@@ -20,13 +20,10 @@ These are the projects currently being moved forward in some capacity. Each proj
 - [**Profile and Engage with Open Source Tooling**](https://github.com/OAI/Projects/projects/4) - Establish an official directory of open source tooling that uses OAS, and actively work to establish and build relationships with them.
 - [**Business Sector Showcase & Engagement**](https://github.com/OAI/Projects/projects/5) - Work to profile different business sectors that are putting OpenAPI to work, then engage, and build relationships with individuals or organizations.
 - [**Quantify the Scope of the OpenAPI Community**](https://github.com/OAI/Projects/projects/6) - Work to establish the size and scope of the OpenAPI community and then track on the growth over time.
-- [**Strengthen Multi-Specification Relationships**](https://github.com/OAI/Projects/projects/7) - Ongoing work to help strengthen the relationships between the OAI and other API specifications like AsyncAPI, GraphQL, JSON Schema, and gRPC.
 - [**Curate and Publish API Videos**](https://github.com/OAI/Projects/projects/8) - Work to discover, curate, and then showcase the existing videos that exist about OpenAPI.
 - [**OpenAPI Search Engine Optimization**](https://github.com/OAI/Projects/projects/11) - This is ongoing work to help improve the search engine optimization for the OAI and OAS, helping increase it's presence.
 - [**Additional OAI Leadership**](https://github.com/OAI/Projects/projects/9) - Work to define the roles for 3 additional leadership within the OAI, and help them be successful in work over a year.
-
-## Multi-Specification Support
-
+- [**Strengthen Multi-Specification Relationships**](https://github.com/OAI/Projects/projects/7) - Ongoing work to help strengthen the relationships between the OAI and other API specifications like AsyncAPI, GraphQL, JSON Schema, and gRPC.
 - [**JSON Schema Documentation Update**](https://github.com/OAI/Projects/projects/10) - This is work to invest in the updating of JSON Schema documentation, helping invest in supporting specifications.
 
 ## Incubator Projects
