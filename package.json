@@ -1,0 +1,24 @@
+{
+  "name": "oai-projects",
+  "version": "1.0.0",
+  "description": "This is a repo for moving forward a variety of projects within the OpenAPI community. In an effort to be more transparent and help involve the community in a variety of ways we will be managing most projects within this repository. This README should provide you with everything you need to get started working on an existing project, or suggest a new project.",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OAI/Projects.git"
+  },
+  "keywords": [],
+  "author": "Kin Lane",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/OAI/Projects/issues"
+  },
+  "homepage": "https://github.com/OAI/Projects#readme"
+}
