@@ -30,6 +30,8 @@ Project|Description|
 |[**OpenAPI Search Engine Optimization**](https://github.com/OAI/Projects/projects/11)|This is ongoing work to help improve the search engine optimization for the OAI and OAS, helping increase it's presence.|
 |[**Overlays**](https://github.com/OAI/Projects/projects/17)|This is to track on all the moving parts of the overlays conversation.|
 |[**Pitch Deck**](https://github.com/OAI/Projects/projects/19)|Track what is happening.|
+|[**API Specifications Conference**](https://github.com/OAI/Projects/projects/20)||
+|[**SEO**](https://github.com/OAI/Projects/projects/21)|This is for tracking SEO Efforts.|
 
 ## Incubator Projects
 
@@ -39,7 +41,6 @@ Project|Description|
 |[**Workflow and Automation Incubator Project**](https://github.com/OAI/Projects/projects/13)|This is a project to manage the workflow and automation incubator project proposal and effort once it is accepted by the TOB.|
 |[**Security Incubator Project**](https://github.com/OAI/Projects/projects/14)|This is a project to manage the security incubator project proposal and effort once it is accepted by the TOB.|
 |[**SLA Incubator Project**](https://github.com/OAI/Projects/projects/15)|This is a project to manage the security incubator project proposal and effort once it is accepted by the TOB.|
-|[**Travel Journey Incubator Project**](https://github.com/OAI/Projects/projects/16)|This is a project to manage the airline, hospitality, rail, and travel incubator project proposal and effort once it is accepted by the TOB.|
 |[**Healthcare Incubator Project**](https://github.com/OAI/Projects/projects/18)|This is a project to setup a working group to focus on the healthcare industry.|
 <!-- dynamic content -->
 
