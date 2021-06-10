@@ -28,20 +28,21 @@ Project|Description|
 |[**Additional OAI Leadership**](https://github.com/OAI/Projects/projects/9)|Work to define the roles for 3 additional leadership within the OAI, and help them be successful in work over a year.|
 |[**JSON Schema Documentation Update**](https://github.com/OAI/Projects/projects/10)|This is work to invest in the updating of JSON Schema documentation, helping invest in supporting specifications.|
 |[**OpenAPI Search Engine Optimization**](https://github.com/OAI/Projects/projects/11)|This is ongoing work to help improve the search engine optimization for the OAI and OAS, helping increase it's presence.|
+|[**Workflow SIG**](https://github.com/OAI/Projects/projects/13)|This is a group to move forward the workflow and scenario conversation.|
+|[**Security SIG**](https://github.com/OAI/Projects/projects/14)|This is a group to move forward the security discussion.|
+|[**SLA SIG**](https://github.com/OAI/Projects/projects/15)|This is a group to move forward the SLA conversation.|
+|[**Travel SIG**](https://github.com/OAI/Projects/projects/16)|This is a group to move the travel conversation forward.|
 |[**Overlays**](https://github.com/OAI/Projects/projects/17)|This is to track on all the moving parts of the overlays conversation.|
+|[**Healthcare SIG**](https://github.com/OAI/Projects/projects/18)|This is a project to setup a working group to focus on the healthcare industry.|
 |[**Pitch Deck**](https://github.com/OAI/Projects/projects/19)|Track what is happening.|
-|[**API Specifications Conference**](https://github.com/OAI/Projects/projects/20)||
+|[**API Specifications Conference**](https://github.com/OAI/Projects/projects/20)|Keep track of some of the goings on around ASC.|
 |[**SEO**](https://github.com/OAI/Projects/projects/21)|This is for tracking SEO Efforts.|
+|[**Office Hours**](https://github.com/OAI/Projects/projects/22)|This is a project to offer ongoing weekly office hours where anyone can come and learn about the OAI, OAS, and how it all works.|
 
 ## Incubator Projects
 
 Project|Description|
 |---|---|
-|[**OpenAPI Initiative Incubator Project Proposal Process**](https://github.com/OAI/Projects/projects/12)|This is a ongoing project ot help move forward the process that governs any incubator project added to the OpenAPI Initiative (OAI).|
-|[**Workflow and Automation Incubator Project**](https://github.com/OAI/Projects/projects/13)|This is a project to manage the workflow and automation incubator project proposal and effort once it is accepted by the TOB.|
-|[**Security Incubator Project**](https://github.com/OAI/Projects/projects/14)|This is a project to manage the security incubator project proposal and effort once it is accepted by the TOB.|
-|[**SLA Incubator Project**](https://github.com/OAI/Projects/projects/15)|This is a project to manage the security incubator project proposal and effort once it is accepted by the TOB.|
-|[**Healthcare Incubator Project**](https://github.com/OAI/Projects/projects/18)|This is a project to setup a working group to focus on the healthcare industry.|
 <!-- dynamic content -->
 
 As projects are complete they will be closed, with some projects living on forever and issues and discussions being used to drive ongoing work.
