@@ -34,7 +34,7 @@ Project|Description|
 |[**Travel SIG**](https://github.com/OAI/Projects/projects/16)|This is a group to move the travel conversation forward.|
 |[**Overlays**](https://github.com/OAI/Projects/projects/17)|This is to track on all the moving parts of the overlays conversation.|
 |[**Healthcare SIG**](https://github.com/OAI/Projects/projects/18)|This is a project to setup a working group to focus on the healthcare industry.|
-|[**Pitch Deck**](https://github.com/OAI/Projects/projects/19)|Track what is happening.|
+|[**Pitch Deck**](https://github.com/OAI/Projects/projects/19)|Move forward the work around a formal pitch deck to represent what OpenAPI is to individual onboarding with the spec or the OAI as an organization.|
 |[**API Specifications Conference**](https://github.com/OAI/Projects/projects/20)|Keep track of some of the goings on around ASC.|
 |[**SEO**](https://github.com/OAI/Projects/projects/21)|This is for tracking SEO Efforts.|
 |[**Office Hours**](https://github.com/OAI/Projects/projects/22)|This is a project to offer ongoing weekly office hours where anyone can come and learn about the OAI, OAS, and how it all works.|
