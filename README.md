@@ -24,7 +24,7 @@ Project|Description|
 |[**Business Sector Showcase & Engagement**](https://github.com/OAI/Projects/projects/5)|Work to profile different business sectors that are putting OpenAPI to work, then engage, and build relationships with individuals or organizations.|
 |[**Quantify the Scope of the OpenAPI Community**](https://github.com/OAI/Projects/projects/6)|Work to establish the size and scope of the OpenAPI community and then track on the growth over time.|
 |[**Strengthen Multi-Specification Relationships**](https://github.com/OAI/Projects/projects/7)|Ongoing work to help strengthen the relationships between the OAI and other API specifications like AsyncAPI, GraphQL, JSON Schema, and gRPC.|
-|[**Curate and Publish API Videos**](https://github.com/OAI/Projects/projects/8)|Work to discover, curate, and then showcase the existing videos that exist about OpenAPI.|
+|[**Content Curation**](https://github.com/OAI/Projects/projects/8)|Work to help identify existing OAI content that benefits the community, curate, organize, and then publish and syndicate back out to help the community.|
 |[**Additional OAI Leadership**](https://github.com/OAI/Projects/projects/9)|Work to define the roles for 3 additional leadership within the OAI, and help them be successful in work over a year.|
 |[**JSON Schema Documentation Update**](https://github.com/OAI/Projects/projects/10)|This is work to invest in the updating of JSON Schema documentation, helping invest in supporting specifications.|
 |[**OpenAPI Search Engine Optimization**](https://github.com/OAI/Projects/projects/11)|This is ongoing work to help improve the search engine optimization for the OAI and OAS, helping increase it's presence.|
@@ -38,6 +38,7 @@ Project|Description|
 |[**API Specifications Conference**](https://github.com/OAI/Projects/projects/20)|Keep track of some of the goings on around ASC.|
 |[**SEO**](https://github.com/OAI/Projects/projects/21)|This is for tracking SEO Efforts.|
 |[**Office Hours**](https://github.com/OAI/Projects/projects/22)|This is a project to offer ongoing weekly office hours where anyone can come and learn about the OAI, OAS, and how it all works.|
+|[**SIG Planning**](https://github.com/OAI/Projects/projects/23)|This is a project to track on the details across the SIGs. Each SIG has own project board, but this is used to plan across the SIGs.|
 
 ## Incubator Projects
 
