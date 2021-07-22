@@ -40,6 +40,7 @@ Project|Description|
 |[**Office Hours**](https://github.com/OAI/Projects/projects/22)|This is a project to offer ongoing weekly office hours where anyone can come and learn about the OAI, OAS, and how it all works.|
 |[**SIG Planning**](https://github.com/OAI/Projects/projects/23)|This is a project to track on the details across the SIGs. Each SIG has own project board, but this is used to plan across the SIGs.|
 |[**New Member Identification & Engagement**](https://github.com/OAI/Projects/projects/24)|Work to identify potential new members to the OAI and reach out to them to help start a conversation and make them aware of the benefits of being a member.|
+|[**Business Governance Board (BGB)**](https://github.com/OAI/Projects/projects/25)|This is used to manage tasks for the BGB, helping Neal, Isabel, and Kin be more organized.|
 
 ## Incubator Projects
 
