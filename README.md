@@ -10,7 +10,7 @@ We are just getting started with this effort to external project work, so this p
 - **Pages** - Ongoing projects may also have a dedicated markdown page that provides access to any related documents and artifacts.
 - **Folder** - Projects may also be able to have their own folders within the repository for organizing any code or related artifacts.
 
-Feel free to suggest a new project by submitting an issue, or roll up your sleeves and get involved in a specific project by jumping in on the issues or the discussions for each area of work.
+Feel free to suggest a new project by submitting an issue, or get involved in a specific project by jumping in on the issues or the discussions for each area of work.
 
 <!-- dynamic content -->
 ## Active Projects
