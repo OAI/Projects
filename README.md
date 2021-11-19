@@ -55,5 +55,6 @@ These are the individuals who are currently part of moving projects forward as p
 
 - [Isabelle Mauny](https://github.com/isamauny) - Representing as co-chair of the BGB Board.
 - [Kin Lane](https://github.com/kinlane) - Representing as co-chair of the BGB Board.
+- [Chris Tsai](https://github.com/grizzicle) - Identifying & engaging new members to grow the OAI.
 
 If you'd like to be added please submit a Github issue stating how you'd like to help and we'll add you to the list of participants.
