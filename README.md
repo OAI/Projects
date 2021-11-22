@@ -53,8 +53,9 @@ As projects are complete they will be closed, with some projects living on forev
 ## Active Participants
 These are the individuals who are currently part of moving projects forward as part of the OAI, and here to answer any questions.
 
-- [Isabelle Mauny](https://github.com/isamauny) - Representing as co-chair of the BGB Board.
 - [Kin Lane](https://github.com/kinlane) - Representing as co-chair of the BGB Board.
 - [Chris Tsai](https://github.com/grizzicle) - Identifying & engaging new members to grow the OAI.
+- [Chris Wood](https://github.com/SensibleWood) - Engaging with open source tooling and curate content.
+- [Phil Sturgeon](https://github.com/philsturgeon) - Engaging with APIs, open source tooling and curate content.
 
 If you'd like to be added please submit a Github issue stating how you'd like to help and we'll add you to the list of participants.
