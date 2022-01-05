@@ -41,6 +41,7 @@ Project|Description|
 |[**New Member Identification & Engagement**](https://github.com/OAI/Projects/projects/24)|Work to identify potential new members to the OAI and reach out to them to help start a conversation and make them aware of the benefits of being a member.|
 |[**Business Governance Board (BGB)**](https://github.com/OAI/Projects/projects/25)|This is used to manage tasks for the BGB, helping Neal, Isabel, and Kin be more organized.|
 |[**Extension Directory**](https://github.com/OAI/Projects/projects/26)|This is a project to move forward an official OAI extension registry, cataloging how the specification is being extended.|
+|[**Blog Process**](https://github.com/OAI/Projects/projects/27)|How do you submit a story for inclusion on the blog.|
 
 ## Incubator Projects
 
